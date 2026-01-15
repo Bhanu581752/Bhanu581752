@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Bhanu Bhaskar Vishwakarma
 
-<!--
-**Bhanu581752/Bhanu581752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BCA student passionate about **web development, full-stack projects, and coding**. I enjoy building practical projects and learning new technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **SmartSpend - Expense Tracker**  
+  Full-stack expense tracker with Node.js, Express, MySQL, and responsive frontend.  
+  [GitHub Repo](https://github.com/Bhanu58175/SmartSpend)  
+
+- **Eco Hub**  
+  Gallery and events web app using HTML, TailwindCSS, and JavaScript.  
+  [GitHub Repo](https://github.com/Bhanu58175/Eco-Hub)  
+
+---
+
+## Skills
+- HTML, CSS, JavaScript, Tailwind CSS  
+- Node.js, Express.js  
+- MySQL, MongoDB  
+- Git, GitHub, VS Code  
+
+---
+
+
+I enjoy **badminton, yoga, and reading books**, and I’m always **improving my coding and problem-solving skills**.
